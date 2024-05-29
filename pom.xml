@@ -89,6 +89,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
+					<mainClass>com.alibou.security.SecurityApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>

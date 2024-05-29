@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/jwt_security
-    username: username
-    password: password
+    url: jdbc:postgresql://localhost:5432/shop_db
+    username: postgres
+    password: nassim
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
